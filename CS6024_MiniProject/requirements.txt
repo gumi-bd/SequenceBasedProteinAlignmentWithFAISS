@@ -1,0 +1,19 @@
+cython
+biopython == 1.77
+matplotlib
+pytest
+pytest-pep8
+pytest-cov
+scikit-learn
+scipy
+numpy
+tqdm
+more_itertools
+nglview
+seaborn
+dvc[s3,ssh]
+jupyterlab
+nbdime
+jupyterlab_git
+click
+joblib
